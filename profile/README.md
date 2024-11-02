@@ -43,8 +43,8 @@ Interested in helping Sporph grow? Here’s how to contribute:
 
 Have questions, ideas, or collaboration proposals? Reach out to us:
 
-- **Website**: [www.norphan.org](https://www.norphan.org)
-- **Email**: contact@norphan.org
+- **Website**: [www.sporph.org](https://www.sporph.org)
+- **Email**: contact@sporph.org
 
 Join us on this journey to make a real difference. Together, we can bring hope and support to those who need it most—in **Gaza**, **South Lebanon**, and beyond.
 
