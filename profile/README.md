@@ -8,7 +8,7 @@ Our goal is to drive immediate and impactful support to regions in urgent need, 
 
 ## ✨ What We’re Working On
 
-- **Social Media Platform for Global Support and Rebuilding**: Developing a platform where users can support those in crisis through donations, sponsorships, and shared stories of resilience. Sporph will contribute **40% of our net income (after taxes and expenses)** toward aid and rebuilding efforts in high-need areas like Gaza and South Lebanon. The remaining **60% will be allocated for reinvestment and dividends** to ensure Sporph’s sustainability, growth, and ability to attract future investment.
+- **Social Media Platform for Global Support and Rebuilding**: Sporph is building a platform where users can support communities in crisis through interactive features, including shared stories of resilience. Once financially stable, Sporph will dedicate **up to 40% of net income (after taxes and expenses)** toward aid and rebuilding efforts in high-need areas like Gaza and South Lebanon. The remaining **60% will be allocated for reinvestment and dividends** to ensure Sporph’s sustainability, growth, and long-term impact.
 
 - **Transparency and Impact Reporting**: Creating tools to provide real-time reporting on the impact of aid and rebuilding efforts, so our community can track the difference their support is making.
 
@@ -25,7 +25,11 @@ Our goal is to drive immediate and impactful support to regions in urgent need, 
 
 ## 📊 Transparency & Accountability
 
-Transparency is central to Sporph’s mission. We work with independent auditors and financial transparency organizations to ensure all funds are directed where they are needed most. **40% of our net income (post-expenses and taxes) is dedicated to direct aid and rebuilding efforts,** and **60% to reinvestment and dividends**, supporting Sporph’s growth, sustainability, and mission to aid high-need areas like Gaza and South Lebanon.
+Transparency is foundational to Sporph’s mission. We work with independent auditors and financial transparency organizations to ensure that funds reach where they are most needed. Sporph is committed to a **scalable profit-sharing model**:
+
+- **Initial Stages**: Funds will be directed toward platform building, scaling, and growth.
+- **Post-Stability**: Up to **40% of net income** (post-expenses and taxes) will go toward aid and rebuilding efforts.
+- **Sustainability & Growth**: The remaining income will be used for reinvestment or dividends to ensure Sporph’s growth and operational sustainability.
 
 - **Financial Reports**: Published quarterly and accessible via our [Impact Dashboard Repository](#).
 - **Open Source Tools**: Our technology stack is open source, fostering transparency and empowering other social impact initiatives.
