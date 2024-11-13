@@ -1,6 +1,6 @@
 # 🌍 Sporph
 
-Welcome to the official GitHub for **Sporph**! Our mission is to create a social media platform dedicated to supporting orphans, displaced families, and communities in crisis. **Initially, we are focusing on providing critical aid and rebuilding efforts in regions deeply impacted by conflict, such as the **Gaza Strip**, **South Lebanon**, and other vulnerable areas.** 
+Welcome to the official GitHub for **Sporph**! Our mission is to create a social media platform dedicated to supporting orphans, displaced families, and communities in crisis. **Initially, we are focusing on providing critical aid and rebuilding efforts in regions deeply impacted by conflict, such as the **Gaza Strip**, **South Lebanon**, and other vulnerable areas.**
 
 ## 🎯 Mission
 
@@ -53,6 +53,13 @@ Have questions, ideas, or collaboration proposals? Reach out to us:
 Join us on this journey to make a real difference. Together, we can bring hope and support to those who need it most—in **Gaza**, **South Lebanon**, and beyond.
 
 ---
+
+## 📖 Learn More
+
+Dive deeper into Sporph’s mission, values, and operational approach:
+
+- **[The Story Behind Sporph](./OUR_STORY.md)**: Discover how Sporph started and the vision that drives us to create impactful change in crisis-affected regions.
+- **[Social Business Model](./SOCIAL_BUSINESS_MODEL.md)**: Explore our unique, sustainable approach to financing, growth, and long-term impact.
 
 > **Disclaimer**: This project is currently in development. Some features may not yet be fully operational or accessible. Please follow us for updates!
 
