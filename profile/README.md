@@ -60,6 +60,7 @@ Dive deeper into Sporph’s mission, values, and operational approach:
 
 - **[The Story Behind Sporph](./OUR_STORY.md)**: Discover how Sporph started and the vision that drives us to create impactful change in crisis-affected regions.
 - **[Social Business Model](./SOCIAL_BUSINESS_MODEL.md)**: Explore our unique, sustainable approach to financing, growth, and long-term impact.
+- **[Why a Social Media Platform?](./WHY_SOCIAL_MEDIA_MODEL.md)**: Understand why Sporph chose the social media model, inspired by platforms like Facebook and Instagram, to support sustainable revenue and maximize impact.
 
 > **Disclaimer**: This project is currently in development. Some features may not yet be fully operational or accessible. Please follow us for updates!
 
