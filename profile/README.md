@@ -4,7 +4,7 @@ Welcome to the official GitHub for **Sporph**! Our mission is to create a social
 
 ## 🎯 Mission
 
-Our goal is to drive immediate and impactful support to regions in urgent need, providing resources to rebuild homes, hospitals, schools, and community centers destroyed by conflict. This focus is **short-term**, with an expected initial phase of **2–4 years** to support recovery efforts until these communities achieve safer, more stable living conditions. Long-term, Sporph’s mission will shift to **sponsoring orphans (those under 18 who have lost their fathers) and supporting impoverished communities** worldwide.
+Our goal is to drive immediate and impactful support to regions in urgent need, providing resources to rebuild homes, hospitals, schools, and community centers destroyed by conflict. This focus is **short-term**, with an expected initial phase of **3–8 years** to support recovery efforts until these communities achieve safer, more stable living conditions. Long-term, Sporph’s mission will shift to **sponsoring orphans (those under 18 who have lost their fathers) and supporting impoverished communities** worldwide.
 
 ## ✨ What We’re Working On
 
