@@ -1,16 +1,16 @@
 # Why We Chose a Social Media Platform Model 📱
 
-One question we often get asked is: **Why create Sporph as a social media platform?** The answer lies in the revenue-generating potential and scalability of social media, which aligns perfectly with Sporph's mission to sustain impactful aid and support for vulnerable communities. Here's a closer look at why the social media model is ideal for Sporph and how it empowers us to create long-term, self-sustaining support.
+One question we often get asked is: **Why create Sporph as a social media platform?** The answer lies in the revenue-generating potential and scalability of social media, which aligns perfectly with Sporph's mission to sustain impactful aid and support for vulnerable communities. Here’s a closer look at why the social media model is ideal for Sporph and how it empowers us to create long-term, self-sustaining support.
 
 ## Leveraging the Proven Revenue Model of Social Media Giants
 
-Social media platforms like **Facebook** and **Instagram** have demonstrated the revenue-generating power of this model through a mix of advertising, premium features, and user engagement. **Facebook and Instagram are leaders in social media monetization**, generating billions in revenue primarily from:
+Social media platforms like **Facebook** and **Instagram** have demonstrated the revenue-generating power of this model through a mix of advertising, premium features, and user engagement. These platforms lead the industry in social media monetization, generating billions in revenue. According to estimates from **2023**:
 
-- **Advertising**: Ads drive a majority of revenue on platforms like Facebook and Instagram, and they do so by providing businesses with a way to reach targeted audiences. By adopting a similar ad model, Sporph can create a revenue stream without solely relying on direct donations, which can fluctuate and be unsustainable.
+- **Facebook’s annual revenue** is approximately **$80 billion USD**, with an estimated **net income of $23.28 billion**.
+- **Instagram’s annual revenue** is around **$49 billion USD**, with an estimated **net income of $14.27 billion**.
+- **Average Net Income**: Combining the two, the average net income is **$18.775 billion USD**—a figure that represents the immense financial impact a well-developed social media platform can achieve.
 
-- **Premium Features**: Many social media platforms now offer premium features, giving users access to exclusive tools and experiences for a small fee. Sporph plans to offer premium features that enhance user experience, all while contributing to our mission.
-
-- **Support for Content Creators**: Platforms like Instagram allow users to financially support content creators through gifts, tips, and fan subscriptions. Sporph plans to allow users to send gifts or donations directly to content creators who share stories of resilience and community rebuilding. This approach gives individuals in crisis an additional way to generate financial support through their own networks.
+While these figures are estimates and may not reflect exact values, they illustrate the success of the social media revenue model and its potential to generate substantial income. Given these figures, if Sporph could achieve a similar volume of net income, it would translate into **$7.51 billion USD** available for aid and rebuilding efforts, based on our commitment to allocate **40% of net income** once the platform reaches financial stability. This amount represents a **significant contribution to crisis-affected regions** and would allow us to make a substantial impact in recovery and rebuilding.
 
 ## How This Model Supports Sporph's Mission of Sustainable Impact
 
